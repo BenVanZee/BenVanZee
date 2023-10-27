@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-I'm [Ben Van Zee](benvanzee.com).
+I'm [Ben Van Zee](https://benvanzee.com).
 
 I'm currently working on:
-* Commonwealth Capital, LLC - [simple, straightforward freight factoring](commonwealthmn.com)
-* Consultran, LLC - [DOT Compliance Services for trucking companies](consultran.com)
+* Commonwealth Capital, LLC - [simple, straightforward freight factoring](https://commonwealthmn.com)
+* Consultran, LLC - [DOT Compliance Services for trucking companies](http://consultran.com)
 
 I'm always looking for people to join me in my journey to build companies that serve the trucking industry.
 <!--
